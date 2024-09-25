@@ -12,7 +12,7 @@ To set up the environment, ensure you have the following packages installed:
 
 `scikit-learn`
 
-To install the required packages, run:
+**To install the required packages, run:**
 
 `pip install numpy pandas matplotlib scikit-learn`
 
@@ -21,8 +21,8 @@ Clone the repository.
 Open the PCACancer.ipynb
 
 ## Output
-PCA Plot: A scatter plot showing the two principal components.
+- **PCA Plot:** A scatter plot showing the two principal components.
 
-Logistic Regression Results: Accuracy score, confusion matrix, and classification report.
+- **Logistic Regression Results:** Accuracy score, confusion matrix, and classification report.
 
-Confusion Matrix Plot: A visualization of the confusion matrix for the Logistic Regression model.
+- **Confusion Matrix Plot:** A visualization of the confusion matrix for the Logistic Regression model.
